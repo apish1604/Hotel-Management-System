@@ -19,6 +19,9 @@ It has the basic features of doing the check in and check out of guests and allo
 * A guest can place an order at the restaurant.
 * A guest gets a computerised bill while leaving the restaurant.
 
+## Class Diagram
+<img src="/ClassDiagram.jpeg" alt="Class Diagram" width=110%/>
+
 ## Setup
 To run the project: 
 * Clone the repository to your local machine using git clone using ``` https://github.com/apish1604/Hotel-Management-System ``` 
