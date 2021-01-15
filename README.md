@@ -22,6 +22,11 @@ It has the basic features of doing the check in and check out of guests and allo
 ## Class Diagram
 <img src="/ClassDiagram.jpeg" alt="Class Diagram"/>
 
+## Developers
+* Kapin Sangwan
+* Saniya Arora
+* Anshul Sanghi
+
 ## Setup
 To run the project: 
 * Clone the repository to your local machine using git clone using ``` https://github.com/apish1604/Hotel-Management-System ``` 
