@@ -20,7 +20,7 @@ It has the basic features of doing the check in and check out of guests and allo
 * A guest gets a computerised bill while leaving the restaurant.
 
 ## Class Diagram
-<img src="/ClassDiagram.jpeg" alt="Class Diagram" width=110%/>
+<img src="/ClassDiagram.jpeg" alt="Class Diagram" width=3000 height=1000/>
 
 ## Setup
 To run the project: 
